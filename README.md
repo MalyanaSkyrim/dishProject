@@ -2,6 +2,6 @@
 [![codecov](https://img.shields.io/codecov/c/github/MalyanaSkyrim/dishProject.svg?style=flat)](https://codecov.io/gh/MalyanaSkyrim/dishProject/branch/master)
 
 # Dishes Tests
-unit tests for exo dish
-
+unit tests for dishes exo
+ 
 
